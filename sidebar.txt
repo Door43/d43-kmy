@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kmy:home|Door43 (kmy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kmy|d43-kmy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kmy/archive/master.zip|d43-kmy.zip]]
+
+**Recent Changes**
+{{changes>ns = kmy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kmy|Ethnologue data]]
+
